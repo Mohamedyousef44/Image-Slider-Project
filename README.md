@@ -10,5 +10,3 @@ https://user-images.githubusercontent.com/122277647/217960285-0b67a7d7-1c31-4a75
 
 
 
-
-![This is an image](./src/assests/page-photo.png)
