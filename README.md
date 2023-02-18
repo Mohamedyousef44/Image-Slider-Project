@@ -1,5 +1,5 @@
-# simple-image-slider-project
-## it is simple image slider code using 
+# simple image slider
+## it is simple image slider using 
 - HTML
 * CSS
 + Vanilla Javascript
